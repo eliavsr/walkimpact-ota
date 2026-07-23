@@ -1,6 +1,6 @@
 {
-  "version": 517,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/517.zip",
-  "notes": "OTA end-to-end proof bundle",
-  "builtAt": "2026-07-23T13:48:36Z"
+  "version": 520,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/520.zip",
+  "notes": "OTA: host bundles on public GitHub repo (free, no AWS); kill-delay apply",
+  "builtAt": "2026-07-23T14:01:30.115Z"
 }
