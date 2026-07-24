@@ -1,6 +1,6 @@
 {
-  "version": 614,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/614.zip",
+  "version": 2821,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2821.zip",
   "notes": "fix(simulator): demote AxisInsightCard filled axis button to quiet text link — one primary CTA per summary screen",
-  "builtAt": "2026-07-24T17:02:51.178Z"
+  "builtAt": "2026-07-24T17:04:48.932Z"
 }
