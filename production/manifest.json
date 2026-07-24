@@ -1,6 +1,6 @@
 {
-  "version": 2814,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2814.zip",
-  "notes": "fix(exercise): world-first — sheet down to 47%, content compacted to minimum",
-  "builtAt": "2026-07-24T17:43:48.771Z"
+  "version": 2815,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2815.zip",
+  "notes": "fix(exercise): reveal-follows-tap — expanded content scrolls into view",
+  "builtAt": "2026-07-24T17:48:04.189Z"
 }
