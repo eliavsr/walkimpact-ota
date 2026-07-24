@@ -1,6 +1,6 @@
 {
-  "version": 2815,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2815.zip",
-  "notes": "fix(exercise): reveal-follows-tap — expanded content scrolls into view",
-  "builtAt": "2026-07-24T17:48:04.189Z"
+  "version": 2825,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2825.zip",
+  "notes": "Quick fixes: exercise close-out, map menu, walk box, yesterday marker",
+  "builtAt": "2026-07-24T18:01:30.806Z"
 }
