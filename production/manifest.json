@@ -1,6 +1,6 @@
 {
-  "version": 2818,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2818.zip",
-  "notes": "Physical journey: camera controls to the right rail, like Today",
-  "builtAt": "2026-07-24T16:52:13.815Z"
+  "version": 2819,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2819.zip",
+  "notes": "fix(today): CTA card hard-shrunk to ~15-20% of screen; road spacing +25% so today lifts off the card and 'מחכה בהמשך' clears the logo",
+  "builtAt": "2026-07-24T17:00:35.378Z"
 }
