@@ -1,6 +1,6 @@
 {
-  "version": 2821,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2821.zip",
-  "notes": "fix(simulator): demote AxisInsightCard filled axis button to quiet text link — one primary CTA per summary screen",
-  "builtAt": "2026-07-24T17:04:48.932Z"
+  "version": 2822,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2822.zip",
+  "notes": "Physical journey: camera group identical to the Today map",
+  "builtAt": "2026-07-24T17:08:00.514Z"
 }
