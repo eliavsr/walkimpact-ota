@@ -1,6 +1,6 @@
 {
-  "version": 2819,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2819.zip",
-  "notes": "fix(today): CTA card hard-shrunk to ~15-20% of screen; road spacing +25% so today lifts off the card and 'מחכה בהמשך' clears the logo",
-  "builtAt": "2026-07-24T17:00:35.378Z"
+  "version": 2820,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2820.zip",
+  "notes": "Calmer soundscape + fold music/breathing into the rail tools",
+  "builtAt": "2026-07-24T17:01:28.132Z"
 }
