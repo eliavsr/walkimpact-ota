@@ -1,6 +1,6 @@
 {
-  "version": 2798,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2798.zip",
-  "notes": "fix(gender): two exercise strings that were written feminine-only",
-  "builtAt": "2026-07-24T10:06:23.561Z"
+  "version": 2803,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2803.zip",
+  "notes": "Share the Today menu with the physical journey (no fabricated menu)",
+  "builtAt": "2026-07-24T15:56:51.143Z"
 }
