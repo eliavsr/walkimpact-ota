@@ -1,6 +1,6 @@
 {
-  "version": 2830,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2830.zip",
-  "notes": "copy(claims): remove \"קליני\" from every platform/AI-facing surface",
-  "builtAt": "2026-07-25T10:07:19.071Z"
+  "version": 2831,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2831.zip",
+  "notes": "Fix the dead anon_id derivation across 8 screens + gender-neutral analytics copy",
+  "builtAt": "2026-07-25T10:10:21.717Z"
 }
