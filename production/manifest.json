@@ -1,6 +1,6 @@
 {
-  "version": 2826,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2826.zip",
-  "notes": "fix(maya): walk-chat Maya now addresses the user by their gender",
-  "builtAt": "2026-07-25T08:55:59.452Z"
+  "version": 2827,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2827.zip",
+  "notes": "Maya gender fix: walk chat rider + 9 hardcoded strings",
+  "builtAt": "2026-07-25T08:56:55.367Z"
 }
