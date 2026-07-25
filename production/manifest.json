@@ -1,6 +1,6 @@
 {
-  "version": 2827,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2827.zip",
-  "notes": "Maya gender fix: walk chat rider + 9 hardcoded strings",
-  "builtAt": "2026-07-25T08:56:55.367Z"
+  "version": 2828,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2828.zip",
+  "notes": "OTA: streak window, fold hit-slop, walk dark-mode + camera, push pin, brand icons",
+  "builtAt": "2026-07-25T09:18:09.562Z"
 }
