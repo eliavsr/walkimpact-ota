@@ -1,6 +1,6 @@
 {
-  "version": 2825,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2825.zip",
-  "notes": "Quick fixes: exercise close-out, map menu, walk box, yesterday marker",
-  "builtAt": "2026-07-24T18:01:30.806Z"
+  "version": 2826,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2826.zip",
+  "notes": "fix(maya): walk-chat Maya now addresses the user by their gender",
+  "builtAt": "2026-07-25T08:55:59.452Z"
 }
