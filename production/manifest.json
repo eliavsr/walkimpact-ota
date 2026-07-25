@@ -1,6 +1,6 @@
 {
-  "version": 2829,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2829.zip",
-  "notes": "Streak unified across all screens (38→62), Maya arrival ceremony, psychoed players merged",
-  "builtAt": "2026-07-25T09:54:00.804Z"
+  "version": 2830,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2830.zip",
+  "notes": "copy(claims): remove \"קליני\" from every platform/AI-facing surface",
+  "builtAt": "2026-07-25T10:07:19.071Z"
 }
