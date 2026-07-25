@@ -1,6 +1,6 @@
 {
-  "version": 2828,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2828.zip",
-  "notes": "OTA: streak window, fold hit-slop, walk dark-mode + camera, push pin, brand icons",
-  "builtAt": "2026-07-25T09:18:09.562Z"
+  "version": 2829,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2829.zip",
+  "notes": "Streak unified across all screens (38→62), Maya arrival ceremony, psychoed players merged",
+  "builtAt": "2026-07-25T09:54:00.804Z"
 }
