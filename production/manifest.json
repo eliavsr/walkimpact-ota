@@ -1,6 +1,6 @@
 {
-  "version": 2836,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2836.zip",
-  "notes": "Fix: a woman using the app was addressed as a man in her own reflection",
-  "builtAt": "2026-07-26T21:50:11.787Z"
+  "version": 2837,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2837.zip",
+  "notes": "Emails: kill the black-square store buttons and the dead \"צ׳ק-אין קצר\"",
+  "builtAt": "2026-07-26T22:02:54.157Z"
 }
