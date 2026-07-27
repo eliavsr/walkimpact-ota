@@ -1,6 +1,6 @@
 {
-  "version": 2847,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2847.zip",
-  "notes": "Push: the wrong exercise name was coming from the phone, not the server",
-  "builtAt": "2026-07-27T23:21:58.872Z"
+  "version": 2853,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2853.zip",
+  "notes": "founderCall: send booking confirmations via SendGrid directly, surface email status, log EmailEvent",
+  "builtAt": "2026-07-27T23:47:00.024Z"
 }
