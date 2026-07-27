@@ -1,6 +1,6 @@
 {
-  "version": 2845,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2845.zip",
-  "notes": "fix(cms): AI editor no longer strips headings, colors, or line breaks",
-  "builtAt": "2026-07-27T23:07:22.854Z"
+  "version": 2847,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2847.zip",
+  "notes": "Push: the wrong exercise name was coming from the phone, not the server",
+  "builtAt": "2026-07-27T23:21:58.872Z"
 }
