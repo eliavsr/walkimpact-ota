@@ -1,6 +1,6 @@
 {
-  "version": 2837,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2837.zip",
-  "notes": "Emails: kill the black-square store buttons and the dead \"צ׳ק-אין קצר\"",
-  "builtAt": "2026-07-26T22:02:54.157Z"
+  "version": 2845,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2845.zip",
+  "notes": "fix(cms): AI editor no longer strips headings, colors, or line breaks",
+  "builtAt": "2026-07-27T23:07:22.854Z"
 }
