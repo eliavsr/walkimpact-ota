@@ -1,6 +1,6 @@
 {
-  "version": 2853,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2853.zip",
-  "notes": "founderCall: send booking confirmations via SendGrid directly, surface email status, log EmailEvent",
-  "builtAt": "2026-07-27T23:47:00.024Z"
+  "version": 2855,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2855.zip",
+  "notes": "Attribution: split the admin panel's \"מקור\" into DOOR + CHANNEL, and stop stamping everyone 'direct'",
+  "builtAt": "2026-07-28T00:04:11.312Z"
 }
