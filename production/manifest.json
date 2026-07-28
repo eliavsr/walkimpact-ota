@@ -1,6 +1,6 @@
 {
-  "version": 2868,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2868.zip",
-  "notes": "The walk kept its clock and threw away everything it earned",
-  "builtAt": "2026-07-28T19:12:38.192Z"
+  "version": 2877,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2877.zip",
+  "notes": "Sweeping the frozen reminder demoted the user to a later, generic one",
+  "builtAt": "2026-07-28T19:43:19.109Z"
 }
