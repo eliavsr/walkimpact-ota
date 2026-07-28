@@ -1,6 +1,6 @@
 {
-  "version": 2855,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2855.zip",
-  "notes": "Attribution: split the admin panel's \"מקור\" into DOOR + CHANNEL, and stop stamping everyone 'direct'",
-  "builtAt": "2026-07-28T00:04:11.312Z"
+  "version": 2856,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2856.zip",
+  "notes": "Community tags: the text stopped falling out of them",
+  "builtAt": "2026-07-28T00:07:31.075Z"
 }
