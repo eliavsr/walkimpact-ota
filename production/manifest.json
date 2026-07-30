@@ -1,6 +1,6 @@
 {
-  "version": 2945,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2945.zip",
-  "notes": "Registration itself now carries the campaign that produced it",
-  "builtAt": "2026-07-30T15:56:15.302Z"
+  "version": 2961,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2961.zip",
+  "notes": "Merge remote-tracking branch 'origin/main' into wave0-deploy",
+  "builtAt": "2026-07-30T18:30:41.573Z"
 }
