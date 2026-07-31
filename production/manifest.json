@@ -1,6 +1,6 @@
 {
-  "version": 3027,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3027.zip",
-  "notes": "מטפל/ת, מפקד/ת וארגון מקבלים תמונה — רק בהסכמה, רק בטווחים, ובלי מילה אחת ממה שכתבת",
-  "builtAt": "2026-07-31T17:46:53.644Z"
+  "version": 3026,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3026.zip",
+  "notes": "הסימולטור הפך לחזרה גנרלית מלווה — חמישה שלבים, בלי ציונים, ושום שיחה לא הולכת לאיבוד",
+  "builtAt": "2026-07-31T17:48:18.069Z"
 }
