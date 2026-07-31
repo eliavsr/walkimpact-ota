@@ -1,6 +1,6 @@
 {
-  "version": 2994,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2994.zip",
-  "notes": "The guide stops introducing a third Maya, and stops shrugging",
-  "builtAt": "2026-07-31T14:20:41.283Z"
+  "version": 3000,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3000.zip",
+  "notes": "The install tile stops borrowing an orphan gradient",
+  "builtAt": "2026-07-31T15:32:40.606Z"
 }
