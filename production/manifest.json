@@ -1,6 +1,6 @@
 {
-  "version": 2974,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2974.zip",
-  "notes": "2.1.3 — R8 on, crashes reported, and the version numbers finally agree",
-  "builtAt": "2026-07-31T08:59:53.397Z"
+  "version": 2976,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2976.zip",
+  "notes": "Update base44 packages",
+  "builtAt": "2026-07-31T09:31:54.214Z"
 }
