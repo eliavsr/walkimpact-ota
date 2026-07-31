@@ -1,6 +1,6 @@
 {
-  "version": 2984,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2984.zip",
-  "notes": "The welcome chrome gets off the status bar, and the player stops borrowing a background",
-  "builtAt": "2026-07-31T13:01:34.387Z"
+  "version": 2985,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2985.zip",
+  "notes": "The world follows the step card, and a lost note no longer strands an update",
+  "builtAt": "2026-07-31T13:31:28.251Z"
 }
