@@ -1,6 +1,6 @@
 {
-  "version": 2981,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2981.zip",
-  "notes": "The exercise player stops being a sheet when it has a world of its own",
-  "builtAt": "2026-07-31T10:06:15.112Z"
+  "version": 2984,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/2984.zip",
+  "notes": "The welcome chrome gets off the status bar, and the player stops borrowing a background",
+  "builtAt": "2026-07-31T13:01:34.387Z"
 }
