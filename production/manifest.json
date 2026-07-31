@@ -1,6 +1,6 @@
 {
-  "version": 3000,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3000.zip",
-  "notes": "The install tile stops borrowing an orphan gradient",
-  "builtAt": "2026-07-31T15:32:40.606Z"
+  "version": 3003,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3003.zip",
+  "notes": "The way out moves to the corner, and the walk chat gets her face",
+  "builtAt": "2026-07-31T15:50:32.321Z"
 }
