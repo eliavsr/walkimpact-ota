@@ -1,6 +1,6 @@
 {
-  "version": 3035,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3035.zip",
-  "notes": "תקרות ה-LLM מכוילות לפי מדידות אמת מהשרת החי",
-  "builtAt": "2026-08-01T00:51:17.371Z"
+  "version": 3040,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3040.zip",
+  "notes": "שלושה ליטושים שסוכני הדשבורדים השאירו לא־ארוזים, וארכיון ה־QA שמאחוריהם",
+  "builtAt": "2026-08-01T01:11:12.005Z"
 }
