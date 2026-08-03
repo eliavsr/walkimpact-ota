@@ -1,6 +1,6 @@
 {
-  "version": 3069,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3069.zip",
-  "notes": "לוגו של ארגון נראה עכשיו בשני המצבים — הרקע נגזר מהלוגו, לא מהערכה",
-  "builtAt": "2026-08-01T20:18:47.717Z"
+  "version": 3091,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3091.zip",
+  "notes": "שתי התראות במקביל: שולח אחד ששלח פעמיים לאותו מכשיר",
+  "builtAt": "2026-08-03T13:24:24.558Z"
 }
