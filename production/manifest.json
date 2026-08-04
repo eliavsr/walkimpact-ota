@@ -1,6 +1,6 @@
 {
-  "version": 3091,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3091.zip",
-  "notes": "שתי התראות במקביל: שולח אחד ששלח פעמיים לאותו מכשיר",
-  "builtAt": "2026-08-03T13:24:24.558Z"
+  "version": 3094,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3094.zip",
+  "notes": "המדריך בתרגיל הראשון מסביר פעם אחת, לא בכל שלב",
+  "builtAt": "2026-08-04T13:17:19.064Z"
 }
