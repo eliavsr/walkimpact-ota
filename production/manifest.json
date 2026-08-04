@@ -1,6 +1,6 @@
 {
-  "version": 3104,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3104.zip",
-  "notes": "09:00 היה שייך לשני שולחים — עכשיו לאחד",
-  "builtAt": "2026-08-04T22:03:57.150Z"
+  "version": 3111,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3111.zip",
+  "notes": "הקו הארוך יצא מכל הטקסט שהמשתמש רואה, וההארנס של האונבורדינג חי שוב",
+  "builtAt": "2026-08-04T22:17:55.504Z"
 }
