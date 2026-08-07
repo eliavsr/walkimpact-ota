@@ -1,6 +1,6 @@
 {
-  "version": 3136,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3136.zip",
-  "notes": "שדרות: שלב הפלטפורמה חזר, ההתראות אליאב בלבד, וגלילה לאישור",
-  "builtAt": "2026-08-07T21:23:19.072Z"
+  "version": 3137,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3137.zip",
+  "notes": "מבקשים את המיקרופון, לא מדווחים עליו: הקלטה שעובדת בכל מכשיר ובכל דפדפן",
+  "builtAt": "2026-08-07T21:33:53.053Z"
 }
