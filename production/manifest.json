@@ -1,6 +1,6 @@
 {
-  "version": 3154,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3154.zip",
-  "notes": "window.Capacitor קיים בדפדפן, ולכן ההוספה ליומן מעולם לא עבדה בווב",
-  "builtAt": "2026-08-08T12:26:14.413Z"
+  "version": 3180,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3180.zip",
+  "notes": "הערכה מדברת גם לאורית, לא רק לשגריר",
+  "builtAt": "2026-08-08T16:54:37.789Z"
 }
