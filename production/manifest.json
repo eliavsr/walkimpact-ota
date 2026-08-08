@@ -1,6 +1,6 @@
 {
-  "version": 3151,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3151.zip",
-  "notes": "הוספה ליומן: בדסקטופ הורדנו קובץ וקיווינו, במקום לתת קליק אחד",
-  "builtAt": "2026-08-08T11:51:17.205Z"
+  "version": 3154,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3154.zip",
+  "notes": "window.Capacitor קיים בדפדפן, ולכן ההוספה ליומן מעולם לא עבדה בווב",
+  "builtAt": "2026-08-08T12:26:14.413Z"
 }
