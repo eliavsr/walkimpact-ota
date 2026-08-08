@@ -1,6 +1,6 @@
 {
-  "version": 3180,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3180.zip",
-  "notes": "הערכה מדברת גם לאורית, לא רק לשגריר",
-  "builtAt": "2026-08-08T16:54:37.789Z"
+  "version": 3181,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3181.zip",
+  "notes": "ערכת השגריר נפתחת בדפדפן, כי באנדל ישן לא יכול להיות 404",
+  "builtAt": "2026-08-08T16:55:23.255Z"
 }
