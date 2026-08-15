@@ -1,6 +1,6 @@
 {
-  "version": 3252,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3252.zip",
-  "notes": "מאיה כמסך, סבב 5: תוכן בתוך השיחה עצמה (בועה), כמו במסך האונבורדינג - לא כרטיס בצד",
-  "builtAt": "2026-08-15T08:28:56.580Z"
+  "version": 3253,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3253.zip",
+  "notes": "מאיה כמסך, סבב 6: פתיחה כתובה-מראש שורה-שורה (כמו /start), תפריט המבורגר משותף עם המפה",
+  "builtAt": "2026-08-15T09:42:06.783Z"
 }
