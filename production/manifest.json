@@ -1,6 +1,6 @@
 {
-  "version": 3324,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3324.zip",
-  "notes": "תיקון: החזרת הבחירה \"יש לי קוד ארגון / הגעתי לבד\" - הייתה מדלגת אוטומטית",
-  "builtAt": "2026-08-15T15:07:58.569Z"
+  "version": 3329,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3329.zip",
+  "notes": "תיקון: התאמה אישית \"נתקעת\" בסוף - בלי אישור נראה, נוחתת בהגדרות במקום היום",
+  "builtAt": "2026-08-15T15:35:40.672Z"
 }
