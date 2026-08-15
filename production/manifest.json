@@ -1,6 +1,6 @@
 {
-  "version": 3214,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3214.zip",
-  "notes": "הנגן תרגילים לא התקדם: בונה המשפט, הסליידר, עלים על הזרם ומודל היציאה",
-  "builtAt": "2026-08-13T13:53:07.551Z"
+  "version": 3236,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3236.zip",
+  "notes": "תיקון: PlanLimitGate היה fixed inset-0 ושבר את מסך מאיה בכל מקום שהוטמע (מעקב/מסע שלי/קהילה) עבור משתמש שחרג ממכסה",
+  "builtAt": "2026-08-15T02:25:40.763Z"
 }
