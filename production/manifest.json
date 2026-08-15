@@ -1,6 +1,6 @@
 {
-  "version": 3331,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3331.zip",
-  "notes": "תיקון דחוף: \"בונים פרופיל\" דיבר בגוף רבים (\"אנחנו/מזהים\") ולא הבחין בין הרשמה לעדכון",
-  "builtAt": "2026-08-15T15:49:33.662Z"
+  "version": 3337,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3337.zip",
+  "notes": "תכונה: זיהוי מקצועי באמצע /start מסיים את השיחה במלואה, ורק אז שער ל-/pro",
+  "builtAt": "2026-08-15T16:12:24.378Z"
 }
