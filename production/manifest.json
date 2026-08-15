@@ -1,6 +1,6 @@
 {
-  "version": 3337,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3337.zip",
-  "notes": "תכונה: זיהוי מקצועי באמצע /start מסיים את השיחה במלואה, ורק אז שער ל-/pro",
-  "builtAt": "2026-08-15T16:12:24.378Z"
+  "version": 3338,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3338.zip",
+  "notes": "תיקון: כניסה במאיה - אין Google/Apple/Facebook, ומשתמשים אמיתיים חוזרים לאונבורדינג",
+  "builtAt": "2026-08-15T18:10:40.376Z"
 }
