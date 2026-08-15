@@ -1,6 +1,6 @@
 {
-  "version": 3322,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3322.zip",
-  "notes": "קהילה חיה, גל 3: חיפוש/סינון אמיתי + ייבוא 408 ארגונים",
-  "builtAt": "2026-08-15T14:57:17.448Z"
+  "version": 3324,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3324.zip",
+  "notes": "תיקון: החזרת הבחירה \"יש לי קוד ארגון / הגעתי לבד\" - הייתה מדלגת אוטומטית",
+  "builtAt": "2026-08-15T15:07:58.569Z"
 }
