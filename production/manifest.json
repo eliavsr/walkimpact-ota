@@ -1,6 +1,6 @@
 {
-  "version": 3256,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3256.zip",
-  "notes": "חושפים את /pro: קישור self-serve שקט בעמוד הנחיתה לארגונים",
-  "builtAt": "2026-08-15T07:13:16.548Z"
+  "version": 3257,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3257.zip",
+  "notes": "מוסיפים shell ל-/pro ברשימת wi-seo-shells",
+  "builtAt": "2026-08-15T07:44:26.305Z"
 }
