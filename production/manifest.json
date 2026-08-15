@@ -1,6 +1,6 @@
 {
-  "version": 3339,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3339.zip",
-  "notes": "משהו קטן להיום: רשת בחירה במקום סדר קבוע",
-  "builtAt": "2026-08-15T18:15:33.366Z"
+  "version": 3340,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3340.zip",
+  "notes": "תיקון קריטי: המסך הסופי (הזמנת חברים, הורדת האפליקציה) נחטף ע\"י רילוד אוטומטי",
+  "builtAt": "2026-08-15T18:33:44.697Z"
 }
