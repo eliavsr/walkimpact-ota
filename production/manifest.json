@@ -1,6 +1,6 @@
 {
-  "version": 3250,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3250.zip",
-  "notes": "תיקון: מסך ההמתנה לאישור חשבון היה מת בפועל, וקישור קבוצת הוואטסאפ שבור",
-  "builtAt": "2026-08-15T02:53:44.960Z"
+  "version": 3255,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3255.zip",
+  "notes": "release 2.1.6 / 2.124643.3 - דלת מאיה יוצאת לחנויות",
+  "builtAt": "2026-08-15T03:33:20.204Z"
 }
