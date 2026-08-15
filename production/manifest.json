@@ -1,6 +1,6 @@
 {
-  "version": 3340,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3340.zip",
-  "notes": "תיקון קריטי: המסך הסופי (הזמנת חברים, הורדת האפליקציה) נחטף ע\"י רילוד אוטומטי",
-  "builtAt": "2026-08-15T18:33:44.697Z"
+  "version": 3341,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3341.zip",
+  "notes": "תפריט המבורגר: אותה קבוצת \"או בחר רגע\" בכל המסכים, לא רק במפה",
+  "builtAt": "2026-08-15T18:46:02.499Z"
 }
