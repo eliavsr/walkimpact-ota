@@ -1,6 +1,6 @@
 {
-  "version": 3343,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3343.zip",
-  "notes": "תיקון: הצעת אימוץ חיה מוסרת מ-/start למי שמלווה מישהו אחר - שייכת לפרופיל",
-  "builtAt": "2026-08-16T08:14:43.048Z"
+  "version": 3344,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3344.zip",
+  "notes": "תיקון קריטי: משתמשים לא הצליחו להירשם - תרגיל ראשון זרק אותם לאונבורדינג הישן",
+  "builtAt": "2026-08-16T08:28:53.103Z"
 }
