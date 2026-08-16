@@ -1,6 +1,6 @@
 {
-  "version": 3353,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3353.zip",
-  "notes": "Merge remote-tracking branch 'origin/main'",
-  "builtAt": "2026-08-16T18:26:18.851Z"
+  "version": 3373,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3373.zip",
+  "notes": "fix: שער השחרור ירוק - מנוע הפוש (self-support pool), מקפים ארוכים, שיחת מאיה נשמרת נקייה",
+  "builtAt": "2026-08-16T21:33:38.107Z"
 }
