@@ -1,6 +1,6 @@
 {
-  "version": 3348,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3348.zip",
-  "notes": "שחזור תוכן שנעלם מהסיור הראשוני (TodayGuide) - הסבר המנגנון ו\"בלי ספאם\"",
-  "builtAt": "2026-08-16T09:14:02.609Z"
+  "version": 3349,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3349.zip",
+  "notes": "תיקון: שיחות מאיה לא נספרו לרצף/היסטוריה, ובועות לא השתקפו נכון באנגלית",
+  "builtAt": "2026-08-16T09:31:13.170Z"
 }
