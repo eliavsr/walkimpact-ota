@@ -1,6 +1,6 @@
 {
-  "version": 3347,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3347.zip",
-  "notes": "תיקון שורש קריטי: AccessGate מפנה לסטארט החדש, לא לאונבורדינג הישן - בכל מקרה",
-  "builtAt": "2026-08-16T08:54:26.001Z"
+  "version": 3348,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3348.zip",
+  "notes": "שחזור תוכן שנעלם מהסיור הראשוני (TodayGuide) - הסבר המנגנון ו\"בלי ספאם\"",
+  "builtAt": "2026-08-16T09:14:02.609Z"
 }
