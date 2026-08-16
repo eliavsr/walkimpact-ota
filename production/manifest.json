@@ -1,6 +1,6 @@
 {
-  "version": 3377,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3377.zip",
-  "notes": "fix(start): שיחה ישנה נשארת אחרי התחברות, תרגיל הטעימה מאפס את הסטארט, קישור הוואטסאפ שובר את המסך",
-  "builtAt": "2026-08-16T22:17:17.068Z"
+  "version": 3378,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3378.zip",
+  "notes": "fix(start): מאיה לא חוזרת על אותה אנימציה פעמיים, welcomeBack באנגלית מתוקן",
+  "builtAt": "2026-08-16T22:25:47.467Z"
 }
