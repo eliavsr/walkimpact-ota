@@ -1,6 +1,6 @@
 {
-  "version": 3344,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3344.zip",
-  "notes": "תיקון קריטי: משתמשים לא הצליחו להירשם - תרגיל ראשון זרק אותם לאונבורדינג הישן",
-  "builtAt": "2026-08-16T08:28:53.103Z"
+  "version": 3345,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3345.zip",
+  "notes": "תיקון קריטי: עוד מלכודות \"התחבר\" בתוך תרגיל הטעימה של /start, ורפלקציה שלא מובנת לאורח",
+  "builtAt": "2026-08-16T08:37:35.327Z"
 }
