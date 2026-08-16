@@ -1,6 +1,6 @@
 {
-  "version": 3376,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3376.zip",
-  "notes": "fix(start): 2FA נכנס למאיה, welcomeBack לא שואל פעם שנייה",
-  "builtAt": "2026-08-16T22:02:18.111Z"
+  "version": 3377,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3377.zip",
+  "notes": "fix(start): שיחה ישנה נשארת אחרי התחברות, תרגיל הטעימה מאפס את הסטארט, קישור הוואטסאפ שובר את המסך",
+  "builtAt": "2026-08-16T22:17:17.068Z"
 }
