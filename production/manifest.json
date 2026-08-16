@@ -1,6 +1,6 @@
 {
-  "version": 3373,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3373.zip",
-  "notes": "fix: שער השחרור ירוק - מנוע הפוש (self-support pool), מקפים ארוכים, שיחת מאיה נשמרת נקייה",
-  "builtAt": "2026-08-16T21:34:08.878Z"
+  "version": 3374,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3374.zip",
+  "notes": "fix(start): התחברות מזהה שלב אמיתי - ממשיך אונבורדינג לא-גמור, לא חוזר עליו",
+  "builtAt": "2026-08-16T21:41:43.407Z"
 }
