@@ -1,6 +1,6 @@
 {
-  "version": 3378,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3378.zip",
-  "notes": "fix(start): מאיה לא חוזרת על אותה אנימציה פעמיים, welcomeBack באנגלית מתוקן",
-  "builtAt": "2026-08-16T22:25:47.467Z"
+  "version": 3379,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3379.zip",
+  "notes": "fix(welcome): כפתור \"כניסה\" פותח באמת התחברות, לא הרשמה",
+  "builtAt": "2026-08-16T22:54:08.593Z"
 }
