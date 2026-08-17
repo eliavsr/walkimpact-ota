@@ -1,6 +1,6 @@
 {
-  "version": 3381,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3381.zip",
-  "notes": "fix(start): תרגיל הטעימה מסביר את עצמו לפני שהוא מתחיל",
-  "builtAt": "2026-08-17T08:14:25.168Z"
+  "version": 3382,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3382.zip",
+  "notes": "קהילה: שורת הכותרת עדיין הראתה מספר גולמי מכל הפיד, לא אישי; מיקרו-קופי לפרטיות; \"כלים, לכל רגע\"",
+  "builtAt": "2026-08-17T08:20:14.659Z"
 }
