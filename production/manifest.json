@@ -1,6 +1,6 @@
 {
-  "version": 3384,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3384.zip",
-  "notes": "מאיה: כפתור האקורדיון לצ'יפים - חץ אופקי (< >) במקום אנכי (^ v)",
-  "builtAt": "2026-08-17T08:36:57.122Z"
+  "version": 3389,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3389.zip",
+  "notes": "תיקון \"יצאתה\"; מסך החיה מציג \"קבוצה\" - מאיה+חיה יחד, רקע מגוון",
+  "builtAt": "2026-08-17T08:46:19.373Z"
 }
