@@ -1,6 +1,6 @@
 {
-  "version": 3380,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3380.zip",
-  "notes": "fix(start): מאיה לא חוזרת על אותה אנימציה פעמיים, welcomeBack באנגלית מתוקן, תרגיל הטעימה כטעימה אמיתית",
-  "builtAt": "2026-08-17T07:50:40.457Z"
+  "version": 3381,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3381.zip",
+  "notes": "fix(start): תרגיל הטעימה מסביר את עצמו לפני שהוא מתחיל",
+  "builtAt": "2026-08-17T08:14:25.168Z"
 }
