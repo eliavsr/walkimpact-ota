@@ -1,6 +1,6 @@
 {
-  "version": 3391,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3391.zip",
-  "notes": "קהילה: \"מפיל ולא מרים\" הוחלף לגמרי; טעימה מכמה פוסטים; אתגרים/מומחים/גלה בצ'אט",
-  "builtAt": "2026-08-17T09:44:41.537Z"
+  "version": 3392,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3392.zip",
+  "notes": "fix(start): המתנה לאישור נשארת אצל מאיה, שאלון לא חוזר על תשובות ישנות, \"עוד שאלה\" לא כפול",
+  "builtAt": "2026-08-17T09:49:31.867Z"
 }
