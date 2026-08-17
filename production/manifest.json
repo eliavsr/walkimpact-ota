@@ -1,6 +1,6 @@
 {
-  "version": 3406,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3406.zip",
-  "notes": "fix: check:voice - 3 מקפים ארוכים ב-screenRecap.js חוסמים את שער השחרור לכולם",
-  "builtAt": "2026-08-17T12:58:07.239Z"
+  "version": 3424,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3424.zip",
+  "notes": "מאיה ברירת מחדל: וובינר + 4 דפי נחיתה + פיילוט + קהילה; תיקוני קופי ומרכוז",
+  "builtAt": "2026-08-17T22:14:52.775Z"
 }
