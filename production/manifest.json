@@ -1,6 +1,6 @@
 {
-  "version": 3428,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3428.zip",
-  "notes": "קופי אנושי + תיקון ויזואלי לסיום השיחה בוובינר",
-  "builtAt": "2026-08-17T22:38:21.341Z"
+  "version": 3451,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3451.zip",
+  "notes": "תיקון קריטי: כתיבה תקועה בלי שגיאה - timeout+retry",
+  "builtAt": "2026-08-17T23:28:10.195Z"
 }
