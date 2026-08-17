@@ -1,6 +1,6 @@
 {
-  "version": 3392,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3392.zip",
-  "notes": "fix(start): המתנה לאישור נשארת אצל מאיה, שאלון לא חוזר על תשובות ישנות, \"עוד שאלה\" לא כפול",
-  "builtAt": "2026-08-17T09:49:31.867Z"
+  "version": 3395,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3395.zip",
+  "notes": "fix(start): \"כבר היית אצלנו?\" מנוסח כניתוב, לא כמבחן זיכרון",
+  "builtAt": "2026-08-17T10:17:54.345Z"
 }
