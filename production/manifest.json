@@ -1,6 +1,6 @@
 {
-  "version": 3398,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3398.zip",
-  "notes": "fix(start): מסע וחיזוק משותף במקום מוקד על מאיה, מרווח בין הטקסט לכפתור בנחיתה",
-  "builtAt": "2026-08-17T11:26:44.471Z"
+  "version": 3399,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3399.zip",
+  "notes": "fix(start): \"המשך\" בהמתנה לאישור לא עשה כלום בעיני היוזר - עכשיו אומר את זה",
+  "builtAt": "2026-08-17T11:49:12.420Z"
 }
