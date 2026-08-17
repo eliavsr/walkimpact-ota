@@ -1,6 +1,6 @@
 {
-  "version": 3401,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3401.zip",
-  "notes": "fix(journey): צ'יפ המיקום במפה מנוסח כהוראה, לא כשאלה",
-  "builtAt": "2026-08-17T11:58:53.419Z"
+  "version": 3403,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3403.zip",
+  "notes": "fix(start): \"המשך\" בהמתנה לאישור יכול היה להיתקע לנצח - עכשיו timeout + מצב טעינה",
+  "builtAt": "2026-08-17T12:08:58.793Z"
 }
