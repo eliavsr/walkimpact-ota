@@ -1,6 +1,6 @@
 {
-  "version": 3395,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3395.zip",
-  "notes": "fix(start): \"כבר היית אצלנו?\" מנוסח כניתוב, לא כמבחן זיכרון",
-  "builtAt": "2026-08-17T10:17:54.345Z"
+  "version": 3396,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3396.zip",
+  "notes": "fix(start): עדכון תוכנית מדבר כעדכון לא כבנייה מחדש, שקט בהתחברות תוקן, פתיחה חמה יותר עם מאיה",
+  "builtAt": "2026-08-17T10:44:04.886Z"
 }
