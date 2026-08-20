@@ -1,6 +1,6 @@
 {
-  "version": 3554,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3554.zip",
-  "notes": "תיקון קריטי: מאיה מזהה נכון את מי שמולה, ועונה מהר יותר",
-  "builtAt": "2026-08-20T22:01:44.897Z"
+  "version": 3567,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3567.zip",
+  "notes": "תיקון שורש: הזהות של מאיה נשלחת בכל פתיחת מסך (לא רק כשמשהו השתנה), ותשובה שנכתבת בזרימה כבר לא נתקעת באמצע",
+  "builtAt": "2026-08-20T22:30:41.537Z"
 }
