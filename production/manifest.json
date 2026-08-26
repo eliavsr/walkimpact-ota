@@ -1,6 +1,6 @@
 {
-  "version": 3623,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3623.zip",
-  "notes": "check:group-info דורש דפדפן ורץ בסט המהיר - החסם השני של ה-OTA",
-  "builtAt": "2026-08-26T06:19:40.330Z"
+  "version": 3624,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3624.zip",
+  "notes": "אירוע שכבר קרה אינו טופס הרשמה - תיקון הקישור שכבר נשלח",
+  "builtAt": "2026-08-26T07:48:36.908Z"
 }
