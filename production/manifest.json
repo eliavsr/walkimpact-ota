@@ -1,6 +1,6 @@
 {
-  "version": 3575,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3575.zip",
-  "notes": "תיקון: שליחה למאיה בפאנל ההליכה כבר לא נתקעת - מרוץ פתיחה כפול תוקן, וכפתור השליחה נותן משוב מיידי",
-  "builtAt": "2026-08-21T08:22:51.707Z"
+  "version": 3623,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3623.zip",
+  "notes": "check:group-info דורש דפדפן ורץ בסט המהיר - החסם השני של ה-OTA",
+  "builtAt": "2026-08-26T06:19:40.330Z"
 }
