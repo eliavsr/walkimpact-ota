@@ -1,6 +1,6 @@
 {
-  "version": 3624,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3624.zip",
-  "notes": "אירוע שכבר קרה אינו טופס הרשמה - תיקון הקישור שכבר נשלח",
-  "builtAt": "2026-08-26T07:48:36.908Z"
+  "version": 3627,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3627.zip",
+  "notes": "טופס הצטרפות בדף הסיכום - המשפך נסגר בעמוד במקום להישלח לעמוד אחר",
+  "builtAt": "2026-08-26T08:37:51.090Z"
 }
