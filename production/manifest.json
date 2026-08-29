@@ -1,6 +1,6 @@
 {
-  "version": 3643,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3643.zip",
-  "notes": "Fix /jerusalem SEO route consistency gap",
-  "builtAt": "2026-08-29T15:27:51.125Z"
+  "version": 3657,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3657.zip",
+  "notes": "תיקון דקדוק: הקפה הראשון (זכר), לא הראשונה - בבוחר זמן התזכורות",
+  "builtAt": "2026-08-29T18:09:51.833Z"
 }
