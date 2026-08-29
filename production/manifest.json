@@ -1,6 +1,6 @@
 {
-  "version": 3640,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3640.zip",
-  "notes": "מיקרו-קופי אחיד בכל הפלטפורמה: הרשמה, מיה, תמיכה (וואטסאפ בלבד לקו העמיתים), התאמה אישית לפי מגדר/נתמך/חיה, תיקוני מגדר אמיתיים",
-  "builtAt": "2026-08-29T07:15:30.189Z"
+  "version": 3641,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3641.zip",
+  "notes": "מסך קהילה חיצוני: הוסר ניסוח AI חוזר (לא X - Y) שהופיע כמעט בכל כותרת בעמוד",
+  "builtAt": "2026-08-29T15:06:38.119Z"
 }
