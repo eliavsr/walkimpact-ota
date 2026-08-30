@@ -1,7 +1,7 @@
 {
-  "version": 3866,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3866.zip",
-  "notes": "Rewrite MayaArrival's legal-consent line into plain, direct copy",
-  "builtAt": "2026-08-30T17:19:37.398Z",
+  "version": 3874,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3874.zip",
+  "notes": "Merge practice dashboard header/footer cleanup",
+  "builtAt": "2026-08-30T18:51:28.081Z",
   "minVersion": 3863
 }
