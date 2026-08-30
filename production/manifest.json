@@ -1,7 +1,7 @@
 {
-  "version": 3768,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3768.zip",
-  "notes": "עדכון תפריט תחתון: המסע הפיזי וסימולטור, קהילה והמסע שלי לתפריט המבורגר (#35)",
-  "builtAt": "2026-08-30T05:52:09.449Z",
+  "version": 3769,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3769.zip",
+  "notes": "Fix /start signup: org-code submit bug, missing legal consent, degender שמור/י",
+  "builtAt": "2026-08-30T05:53:38.976Z",
   "minVersion": 3767
 }
