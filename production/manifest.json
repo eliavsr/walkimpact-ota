@@ -1,7 +1,7 @@
 {
-  "version": 3874,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3874.zip",
-  "notes": "Merge practice dashboard header/footer cleanup",
-  "builtAt": "2026-08-30T18:51:28.081Z",
+  "version": 3876,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3876.zip",
+  "notes": "Merge cross-role dashboard parity + preview chain-through + tour session-doc step",
+  "builtAt": "2026-08-30T19:02:54.035Z",
   "minVersion": 3863
 }
