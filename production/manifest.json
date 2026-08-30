@@ -1,7 +1,7 @@
 {
-  "version": 3816,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3816.zip",
-  "notes": "Add free-text \"אחר\" option to /start's present-focus question",
-  "builtAt": "2026-08-30T14:29:49.165Z",
+  "version": 3817,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3817.zip",
+  "notes": "Fix /start controls staying permanently hidden after revisiting a step",
+  "builtAt": "2026-08-30T14:42:26.817Z",
   "minVersion": 3813
 }
