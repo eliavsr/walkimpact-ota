@@ -1,7 +1,7 @@
 {
-  "version": 3790,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3790.zip",
-  "notes": "החזרת קהילה, המסע שלי והמדריך מההתחלה לתפריט הצדדי - בקטגוריה נפרדת (#41)",
-  "builtAt": "2026-08-30T12:56:11.963Z",
+  "version": 3794,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3794.zip",
+  "notes": "שינוי שם הכותרת בתפריט הצדדי ל'קהילה והיסטוריה' (#42)",
+  "builtAt": "2026-08-30T12:59:01.984Z",
   "minVersion": 3767
 }
