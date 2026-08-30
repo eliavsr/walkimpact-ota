@@ -1,7 +1,7 @@
 {
-  "version": 3844,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3844.zip",
-  "notes": "Fix two blockers hit running the 2.1.9 release train",
-  "builtAt": "2026-08-30T15:30:41.162Z",
+  "version": 3862,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3862.zip",
+  "notes": "תיקון: הסרת check:real-plan ו-check:quiet-mode משער השחרור (#49)",
+  "builtAt": "2026-08-30T16:49:14.391Z",
   "minVersion": 3844
 }
