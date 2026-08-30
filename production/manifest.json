@@ -1,7 +1,7 @@
 {
-  "version": 3863,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3863.zip",
-  "notes": "Add Store submit workflow (the release train's deliberate second act)",
-  "builtAt": "2026-08-30T16:51:43.995Z",
+  "version": 3865,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3865.zip",
+  "notes": "Fix Play \"only one completed release\" + surface Apple's real error detail",
+  "builtAt": "2026-08-30T17:15:00.772Z",
   "minVersion": 3863
 }
