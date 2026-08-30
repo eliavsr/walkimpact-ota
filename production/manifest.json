@@ -1,7 +1,7 @@
 {
-  "version": 3813,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3813.zip",
-  "notes": "today: stop running a second Today underneath the map nobody can see",
-  "builtAt": "2026-08-30T14:06:16.396Z",
+  "version": 3816,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3816.zip",
+  "notes": "Add free-text \"אחר\" option to /start's present-focus question",
+  "builtAt": "2026-08-30T14:29:49.165Z",
   "minVersion": 3813
 }
