@@ -1,7 +1,7 @@
 {
-  "version": 3789,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3789.zip",
-  "notes": "Fix /pro OAuth-return home hijack and /start exercise-exit history bug",
-  "builtAt": "2026-08-30T11:46:20.545Z",
+  "version": 3790,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3790.zip",
+  "notes": "החזרת קהילה, המסע שלי והמדריך מההתחלה לתפריט הצדדי - בקטגוריה נפרדת (#41)",
+  "builtAt": "2026-08-30T12:56:11.963Z",
   "minVersion": 3767
 }
