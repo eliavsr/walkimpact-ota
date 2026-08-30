@@ -1,7 +1,7 @@
 {
-  "version": 3777,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3777.zip",
-  "notes": "הוספת המטפל שלי ומעגל התמיכה שלי לתפריט הצדדי (#39)",
-  "builtAt": "2026-08-30T09:43:31.901Z",
+  "version": 3789,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3789.zip",
+  "notes": "Fix /pro OAuth-return home hijack and /start exercise-exit history bug",
+  "builtAt": "2026-08-30T11:46:20.545Z",
   "minVersion": 3767
 }
