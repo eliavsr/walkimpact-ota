@@ -1,7 +1,7 @@
 {
-  "version": 3794,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3794.zip",
-  "notes": "שינוי שם הכותרת בתפריט הצדדי ל'קהילה והיסטוריה' (#42)",
-  "builtAt": "2026-08-30T12:59:01.984Z",
-  "minVersion": 3767
+  "version": 3813,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3813.zip",
+  "notes": "today: stop running a second Today underneath the map nobody can see",
+  "builtAt": "2026-08-30T14:06:16.396Z",
+  "minVersion": 3813
 }
