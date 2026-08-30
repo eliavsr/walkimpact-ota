@@ -1,7 +1,7 @@
 {
-  "version": 3865,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3865.zip",
-  "notes": "Fix Play \"only one completed release\" + surface Apple's real error detail",
-  "builtAt": "2026-08-30T17:15:00.772Z",
+  "version": 3866,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3866.zip",
+  "notes": "Rewrite MayaArrival's legal-consent line into plain, direct copy",
+  "builtAt": "2026-08-30T17:19:37.398Z",
   "minVersion": 3863
 }
