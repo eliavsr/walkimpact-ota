@@ -1,7 +1,7 @@
 {
-  "version": 3767,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3767.zip",
-  "notes": "today: the personal guide button comes back to the rail",
-  "builtAt": "2026-08-30T05:43:32.747Z",
+  "version": 3768,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3768.zip",
+  "notes": "עדכון תפריט תחתון: המסע הפיזי וסימולטור, קהילה והמסע שלי לתפריט המבורגר (#35)",
+  "builtAt": "2026-08-30T05:52:09.449Z",
   "minVersion": 3767
 }
