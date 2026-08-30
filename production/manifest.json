@@ -1,7 +1,7 @@
 {
-  "version": 3862,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3862.zip",
-  "notes": "תיקון: הסרת check:real-plan ו-check:quiet-mode משער השחרור (#49)",
-  "builtAt": "2026-08-30T16:49:14.391Z",
-  "minVersion": 3844
+  "version": 3863,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3863.zip",
+  "notes": "Add Store submit workflow (the release train's deliberate second act)",
+  "builtAt": "2026-08-30T16:51:43.995Z",
+  "minVersion": 3863
 }
