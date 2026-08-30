@@ -1,7 +1,7 @@
 {
-  "version": 3776,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3776.zip",
-  "notes": "הסרת קהילה, המסע שלי והמדריך מההתחלה מהתפריט הצדדי (#38)",
-  "builtAt": "2026-08-30T09:39:25.012Z",
+  "version": 3777,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3777.zip",
+  "notes": "הוספת המטפל שלי ומעגל התמיכה שלי לתפריט הצדדי (#39)",
+  "builtAt": "2026-08-30T09:43:31.901Z",
   "minVersion": 3767
 }
