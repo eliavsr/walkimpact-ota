@@ -1,7 +1,7 @@
 {
-  "version": 3876,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3876.zip",
-  "notes": "Merge cross-role dashboard parity + preview chain-through + tour session-doc step",
-  "builtAt": "2026-08-30T19:02:54.035Z",
+  "version": 3877,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3877.zip",
+  "notes": "תיקון click-through: אווטארי אני/חיה/נתמך נשארו לחיצים מתחת לתפריט (#54)",
+  "builtAt": "2026-08-31T08:03:24.724Z",
   "minVersion": 3863
 }
