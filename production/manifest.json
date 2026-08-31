@@ -1,7 +1,7 @@
 {
-  "version": 3888,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3888.zip",
-  "notes": "Merge remote-tracking branch 'origin/main'",
-  "builtAt": "2026-08-31T14:14:21.945Z",
+  "version": 3895,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3895.zip",
+  "notes": "Merge org dashboard footer/scroll-to-top",
+  "builtAt": "2026-08-31T14:30:34.655Z",
   "minVersion": 3863
 }
