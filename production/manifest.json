@@ -1,7 +1,7 @@
 {
-  "version": 3881,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3881.zip",
-  "notes": "Merge fix: patient-side connection visibility (email-case bug) + fresher MyCareTab queries",
-  "builtAt": "2026-08-31T08:11:06.271Z",
+  "version": 3884,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3884.zip",
+  "notes": "Practice: disable pending-patient accept during admin preview instead of throwing Forbidden",
+  "builtAt": "2026-08-31T13:38:09.586Z",
   "minVersion": 3863
 }
