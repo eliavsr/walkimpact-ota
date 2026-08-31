@@ -1,7 +1,7 @@
 {
-  "version": 3895,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3895.zip",
-  "notes": "Merge org dashboard footer/scroll-to-top",
-  "builtAt": "2026-08-31T14:30:34.655Z",
+  "version": 3905,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3905.zip",
+  "notes": "fix: leaders webinar hero showed the families eyebrow chip, not BCP framing",
+  "builtAt": "2026-08-31T20:50:53.204Z",
   "minVersion": 3863
 }
