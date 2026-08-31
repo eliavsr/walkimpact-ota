@@ -1,7 +1,7 @@
 {
-  "version": 3877,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3877.zip",
-  "notes": "תיקון click-through: אווטארי אני/חיה/נתמך נשארו לחיצים מתחת לתפריט (#54)",
-  "builtAt": "2026-08-31T08:03:24.724Z",
+  "version": 3879,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3879.zip",
+  "notes": "Merge remote-tracking branch 'origin/main'",
+  "builtAt": "2026-08-31T08:05:52.237Z",
   "minVersion": 3863
 }
