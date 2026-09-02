@@ -1,3 +1,13 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<meta property="og:title" content="WalkImpact · דף מידע לארגונים ומעסיקים">
+<meta property="og:description" content="הליווי הקליני, השותפויות והנתונים מהשטח.">
+</head>
+<body>
 <title>דף מידע לארגונים ומעסיקים</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700;800&display=swap">
@@ -627,7 +637,11 @@
     };
 
     dbPromise.then(function(db){
-      if(!db) throw new Error('no-db');
+      if(!db){
+        var b=encodeURIComponent('שם: '+data.name+'\nארגון: '+data.org+'\nתפקיד: '+data.role+'\nטלפון: '+data.phone+'\nאימייל: '+data.email+'\nנושא: '+data.topic+'\nהערה: '+data.note);
+        window.location.href='mailto:hello@walkimpact.com?subject='+encodeURIComponent('פנייה מדף המידע לארגונים · '+data.org)+'&body='+b;
+        form.style.display='none'; ok.style.display='block'; return;
+      }
       var id = 'lead-' + Date.now() + '-' + Math.random().toString(36).slice(2,8);
       return db.doc('leads/'+id).set(data);
     }).then(function(){
@@ -642,3 +656,6 @@
   });
 })();
 </script>
+
+</body>
+</html>
