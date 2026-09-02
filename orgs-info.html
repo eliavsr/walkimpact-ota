@@ -6,11 +6,11 @@
 <meta name="robots" content="noindex,nofollow">
 <meta property="og:title" content="WalkImpact · דף מידע לארגונים ומעסיקים">
 <meta property="og:description" content="הליווי הקליני, השותפויות והנתונים מהשטח.">
-</head>
-<body>
 <title>דף מידע לארגונים ומעסיקים</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700;800&display=swap">
+</head>
+<body>
 <style>
   /* ── WalkImpact brand tokens (LibaDesignTokens, light - the marketing look) ── */
   :root{
@@ -194,6 +194,89 @@
   /* ── footer ── */
   .foot{padding:36px 0 44px;text-align:center;font-size:12.5px;color:var(--muted);line-height:1.8;border-top:1px solid var(--hair);margin-top:20px}
   .foot a{color:var(--magenta-dark);text-decoration:underline;text-underline-offset:2px}
+
+  /* ── iPhone frame ── */
+  .phones{display:flex;gap:18px;justify-content:center;align-items:flex-end;flex-wrap:wrap;margin-top:34px}
+  .phone-fig{display:flex;flex-direction:column;align-items:center;gap:12px;max-width:212px}
+  .phone{
+    position:relative;width:186px;aspect-ratio:9/19.5;background:#0D0A14;border-radius:32px;
+    padding:7px;box-shadow:0 30px 60px -30px rgba(26,20,38,.65),0 0 0 1.5px rgba(255,255,255,.16) inset;
+    flex:0 0 auto;
+  }
+  .phone.lg{width:224px}
+  .phone::before{
+    content:'';position:absolute;top:14px;left:50%;transform:translateX(-50%);
+    width:58px;height:16px;background:#0D0A14;border-radius:999px;z-index:2;
+  }
+  .phone-screen{
+    width:100%;height:100%;border-radius:26px;overflow:hidden;background:#FBEAF1;
+    display:block;position:relative;
+  }
+  .phone-screen img{width:100%;height:100%;object-fit:cover;object-position:top center;display:block}
+  .phone-cap b{display:block;font-size:14px;font-weight:800;color:var(--ink);text-align:center}
+  .phone-cap i{display:block;font-size:12.5px;font-style:normal;color:var(--muted);text-align:center;margin-top:3px;line-height:1.4}
+  @media(max-width:720px){
+    .phones{gap:14px}
+    .phone{width:150px}
+    .phone.lg{width:168px}
+    .phone::before{width:46px;height:13px;top:11px}
+  }
+
+  /* ── human factor: tight two-column with a phone ── */
+  .human-grid{display:grid;grid-template-columns:1fr;gap:26px;align-items:center;margin-top:30px}
+  @media(min-width:860px){.human-grid{grid-template-columns:1fr auto;gap:46px}}
+  .human-points{display:grid;gap:14px}
+  .human-point{display:flex;gap:12px;align-items:flex-start}
+  .human-point .dot{
+    flex:0 0 auto;width:9px;height:9px;border-radius:50%;background:var(--magenta);margin-top:8px;
+    box-shadow:0 0 0 4px rgba(216,30,91,.14);
+  }
+  .human-point b{display:block;font-size:16px;font-weight:800;color:var(--ink)}
+  .human-point span{display:block;font-size:14.5px;color:var(--mid);margin-top:2px}
+
+  /* ── Maya form ── */
+  .form-switch{display:flex;gap:8px;justify-content:center;margin-bottom:20px}
+  .form-switch button{
+    font-family:var(--fd);font-size:13.5px;font-weight:700;cursor:pointer;
+    border:1.5px solid var(--hair);background:var(--card);color:var(--muted);
+    border-radius:999px;padding:9px 18px;transition:all .18s;
+  }
+  .form-switch button[aria-pressed="true"]{
+    border-color:var(--magenta);color:#fff;background:var(--cta);
+    box-shadow:0 8px 20px -10px rgba(216,30,91,.6);
+  }
+  .maya-card{
+    background:linear-gradient(170deg,#FCF3F8,#F7EFFB);border:1px solid rgba(216,30,91,.16);
+    border-radius:24px;padding:0;overflow:hidden;box-shadow:var(--shadow);max-width:620px;margin:0 auto;
+  }
+  .maya-head{display:flex;align-items:center;gap:12px;padding:16px 20px;border-bottom:1px solid rgba(216,30,91,.12);background:rgba(255,255,255,.6)}
+  .maya-orb{
+    width:42px;height:42px;border-radius:50%;flex:0 0 auto;
+    background:radial-gradient(circle at 38% 32%,#F9A8D4 0%,#D946A8 46%,#C084FC 82%);
+    box-shadow:0 6px 18px -6px rgba(217,70,168,.7);
+  }
+  .maya-head b{display:block;font-size:15.5px;font-weight:800;color:var(--ink)}
+  .maya-head i{display:block;font-style:normal;font-size:12.5px;color:var(--muted);margin-top:1px}
+  .maya-thread{padding:20px;display:flex;flex-direction:column;gap:12px;min-height:210px;max-height:340px;overflow-y:auto}
+  .bub{max-width:82%;font-size:15px;line-height:1.55;padding:12px 16px;border-radius:18px;animation:pop .28s ease}
+  @keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.bub{animation:none}}
+  .bub.maya{background:#fff;color:var(--ink);align-self:flex-start;border-bottom-right-radius:6px;box-shadow:0 2px 10px rgba(80,40,120,.07)}
+  .bub.me{background:var(--cta);color:#fff;align-self:flex-end;border-bottom-left-radius:6px;font-weight:600}
+  .maya-input{display:flex;gap:8px;padding:14px 16px;border-top:1px solid rgba(216,30,91,.12);background:rgba(255,255,255,.7)}
+  .maya-input input,.maya-input select{
+    flex:1;min-width:0;padding:12px 14px;border:1.5px solid var(--hair);border-radius:14px;
+    font-family:var(--fd);font-size:15px;color:var(--ink);background:#fff;
+  }
+  .maya-input input:focus,.maya-input select:focus{outline:none;border-color:var(--magenta);box-shadow:0 0 0 3px rgba(216,30,91,.12)}
+  .maya-send{
+    flex:0 0 auto;border:none;border-radius:14px;background:var(--cta);color:#fff;
+    font-family:var(--fd);font-weight:700;font-size:14.5px;padding:0 20px;cursor:pointer;
+  }
+  .maya-send:disabled{opacity:.5;cursor:default}
+  .maya-progress{height:3px;background:rgba(216,30,91,.12)}
+  .maya-progress i{display:block;height:100%;width:0;background:var(--cta);transition:width .35s ease}
+
 </style>
 
 <div class="conf">
@@ -227,6 +310,21 @@
       <a class="cta" href="#contact">לתאם שיחה</a>
       <a class="cta-ghost" href="#traction">לראות את הנתונים</a>
     </div>
+  </div>
+    <div class="phones">
+  <div class="phone-fig rv">
+    <div class="phone"><span class="phone-screen"><img src="/impact/app-plan.jpg" alt="התוכנית שלך באפליקציה" loading="lazy"></span></div>
+    <div class="phone-cap"><b>התוכנית שלכם</b><i>שלושה תחומים: אני, הוא, ואנחנו.</i></div>
+  </div>
+  <div class="phone-fig rv">
+    <div class="phone lg"><span class="phone-screen"><img src="/impact/app-journey.jpg" alt="המסע היומי באפליקציה" loading="lazy"></span></div>
+    <div class="phone-cap"><b>המסע היומי</b><i>צעד אחד ביום, שלוש עד חמש דקות.</i></div>
+  </div>
+  <div class="phone-fig rv">
+    <div class="phone"><span class="phone-screen"><img src="/impact/app-maya.jpg" alt="מאיה, הליווי באפליקציה" loading="lazy"></span></div>
+    <div class="phone-cap"><b>מאיה</b><i>מדברים איתה בכל שעה, גם בשלוש בלילה.</i></div>
+  </div>
+</div>
   </div>
 </section>
 
@@ -301,15 +399,25 @@
 <section id="human">
   <div class="wrap">
     <h2 class="sec-h rv">הגורם האנושי בתוך הפלטפורמה, תמיד זמין</h2>
-    <p class="sec-sub rv">כשמישהו במצוקה אמיתית, זה לא נגמר בתוכן על המסך. יש בן אדם בקצה השני.</p>
-    <div class="progs" style="margin-top:28px">
-      <div class="prog rv">
-        <h4>שיתוף פעולה עם "לא מפקירים פצועים בשטח"</h4>
-        <p>הארגון שמלווה פצועי גוף ונפש, ומחזיק את העיקרון שאף אחד לא נשאר לבד אחרי האירוע.</p>
+    <p class="sec-sub rv">כשמישהו במצוקה אמיתית, זה לא נגמר בתוכן על המסך. יש בן אדם בקצה השני, בתוך האפליקציה.</p>
+    <div class="human-grid">
+      <div class="human-points rv">
+        <div class="human-point">
+          <span class="dot"></span>
+          <div><b>"לא מפקירים פצועים בשטח"</b><span>קהילה טיפולית ושיקומית של מתמודדים ובני משפחה, מהשטח. מחוברת ישירות מתוך המסך.</span></div>
+        </div>
+        <div class="human-point">
+          <span class="dot"></span>
+          <div><b>מוקד המתנדבים של בזק</b><span>מענה אנושי מהיר כשעולה סימן מצוקה.</span></div>
+        </div>
+        <div class="human-point">
+          <span class="dot"></span>
+          <div><b>לדבר עם בן אדם בוואטסאפ</b><span>בלי שיחת טלפון, בלי להמתין בתור. כותבים, ועונים לכם.</span></div>
+        </div>
       </div>
-      <div class="prog rv">
-        <h4>מוקד מתנדבים של בזק</h4>
-        <p>מוקד אנושי זמין למקרה הצורך, שנותן מענה מהיר כשעולה סימן מצוקה.</p>
+      <div class="phone-fig rv">
+        <div class="phone lg"><span class="phone-screen"><img src="/impact/app-maya.jpg" alt="מסך התמיכה באפליקציה" loading="lazy"></span></div>
+        <div class="phone-cap"><i>מסך התמיכה, בתוך האפליקציה</i></div>
       </div>
     </div>
   </div>
@@ -425,51 +533,65 @@
 <section id="contact">
   <div class="wrap">
     <h2 class="sec-h rv">מוכנים להתחיל?</h2>
-    <p class="sec-sub rv">משאירים פרטים ונחזור אליכם. אפשר גם לבחור מה הכי מעניין אתכם.</p>
-    <div class="form-card rv">
+    <p class="sec-sub rv">אפשר לדבר עם מאיה, ואפשר טופס רגיל. שניהם מגיעים לאותו מקום.</p>
+
+    <div class="form-switch rv">
+      <button type="button" id="tabMaya" aria-pressed="true">לדבר עם מאיה</button>
+      <button type="button" id="tabForm" aria-pressed="false">טופס רגיל</button>
+    </div>
+
+    <!-- Maya -->
+    <div class="maya-card rv" id="mayaCard">
+      <div class="maya-head">
+        <span class="maya-orb" aria-hidden="true"></span>
+        <div><b>מאיה</b><i>אני כאן · שאלה אחת בכל פעם</i></div>
+      </div>
+      <div class="maya-progress"><i id="mayaBar"></i></div>
+      <div class="maya-thread" id="mayaThread" role="log" aria-live="polite"></div>
+      <form class="maya-input" id="mayaForm">
+        <input id="mayaField" type="text" autocomplete="off" placeholder="כתבו כאן..." aria-label="התשובה שלכם">
+        <select id="mayaSelect" hidden aria-label="בחירה">
+          <option value="תכנית לרשות או לארגון">תכנית לרשות או לארגון</option>
+          <option value="ליווי קליני צמוד לקבוצה">ליווי קליני צמוד לקבוצה (עד 50 משפחות)</option>
+          <option value="פיילוט מדיד">פיילוט מדיד</option>
+          <option value="שיחת היכרות כללית">שיחת היכרות כללית</option>
+          <option value="אחר">אחר</option>
+        </select>
+        <button class="maya-send" type="submit" id="mayaSend">שליחה</button>
+      </form>
+    </div>
+
+    <!-- Classic -->
+    <div class="form-card rv" id="classicCard" hidden>
       <form id="leadForm">
-        <div class="field">
-          <label for="f-name">שם מלא</label>
-          <input id="f-name" name="name" type="text" required autocomplete="name" placeholder="איך לפנות אליכם?">
-        </div>
-        <div class="field">
-          <label for="f-org">ארגון או רשות</label>
-          <input id="f-org" name="org" type="text" required placeholder="שם הארגון">
-        </div>
-        <div class="field">
-          <label for="f-role">תפקיד</label>
-          <input id="f-role" name="role" type="text" placeholder="למשל: מנהלת רווחה, משאבי אנוש">
-        </div>
-        <div class="field">
-          <label for="f-phone">טלפון</label>
-          <input id="f-phone" name="phone" type="tel" required inputmode="tel" autocomplete="tel" placeholder="050-0000000">
-        </div>
-        <div class="field">
-          <label for="f-email">אימייל</label>
-          <input id="f-email" name="email" type="email" required autocomplete="email" placeholder="name@org.co.il">
-        </div>
-        <div class="field">
-          <label for="f-topic">מה הכי רלוונטי לכם עכשיו?</label>
+        <div class="field"><label for="f-name">שם מלא</label>
+          <input id="f-name" name="name" type="text" required autocomplete="name" placeholder="איך לפנות אליכם?"></div>
+        <div class="field"><label for="f-org">ארגון או רשות</label>
+          <input id="f-org" name="org" type="text" required placeholder="שם הארגון"></div>
+        <div class="field"><label for="f-role">תפקיד</label>
+          <input id="f-role" name="role" type="text" placeholder="למשל: מנהלת רווחה, משאבי אנוש"></div>
+        <div class="field"><label for="f-phone">טלפון</label>
+          <input id="f-phone" name="phone" type="tel" required inputmode="tel" autocomplete="tel" placeholder="050-0000000"></div>
+        <div class="field"><label for="f-email">אימייל</label>
+          <input id="f-email" name="email" type="email" required autocomplete="email" placeholder="name@org.co.il"></div>
+        <div class="field"><label for="f-topic">מה הכי רלוונטי לכם עכשיו?</label>
           <select id="f-topic" name="topic">
             <option value="תכנית לרשות או לארגון">תכנית לרשות או לארגון</option>
             <option value="ליווי קליני צמוד לקבוצה">ליווי קליני צמוד לקבוצה (עד 50 משפחות)</option>
             <option value="פיילוט מדיד">פיילוט מדיד</option>
             <option value="שיחת היכרות כללית">שיחת היכרות כללית</option>
             <option value="אחר">אחר</option>
-          </select>
-        </div>
-        <div class="field">
-          <label for="f-note">משהו שכדאי שנדע לפני השיחה?</label>
-          <textarea id="f-note" name="note" placeholder="לא חובה"></textarea>
-        </div>
-        <button class="cta" type="submit" id="submitBtn">שולחים את הפרטים</button>
-        <p class="form-err" id="formErr">משהו השתבש בשליחה. אפשר לנסות שוב, או לכתוב לנו ישירות.</p>
+          </select></div>
+        <div class="field"><label for="f-note">משהו שכדאי שנדע לפני השיחה?</label>
+          <textarea id="f-note" name="note" placeholder="לא חובה"></textarea></div>
+        <button class="cta" type="submit">שולחים את הפרטים</button>
         <p class="form-note">הפרטים נשמרים אצלנו לצורך יצירת קשר בלבד.</p>
       </form>
-      <div class="form-ok" id="formOk">
-        <h3>קיבלנו. תודה.</h3>
-        <p>נחזור אליכם בהקדם, בדרך כלל תוך יום עסקים.</p>
-      </div>
+    </div>
+
+    <div class="form-ok" id="formOk" style="max-width:620px;margin:0 auto">
+      <h3>קיבלנו. תודה.</h3>
+      <p>נחזור אליכם בהקדם, בדרך כלל תוך יום עסקים.</p>
     </div>
   </div>
 </section>
@@ -522,28 +644,103 @@
 })();
 
 /* ── real lead form: writes to the artifact's shared store ── */
+/* ── contact: Maya conversational form + classic form, both live ── */
 (function(){
-  var form = document.getElementById('leadForm');
-  var ok = document.getElementById('formOk');
-  var err = document.getElementById('formErr');
+  var STEPS = [
+    {key:'name',  q:'היי. אני מאיה. איך קוראים לך?', ph:'השם שלכם'},
+    {key:'org',   q:'נעים להכיר, {name}. באיזה ארגון או רשות אתם?', ph:'שם הארגון'},
+    {key:'role',  q:'ומה התפקיד שלך שם?', ph:'למשל: מנהלת רווחה'},
+    {key:'phone', q:'לאיזה טלפון נוח שנחזור אליכם?', ph:'050-0000000'},
+    {key:'email', q:'ואימייל, כדי שנשלח פרטים לפני השיחה.', ph:'name@org.co.il'},
+    {key:'topic', q:'מה הכי רלוונטי לכם עכשיו?', select:true},
+    {key:'note',  q:'משהו שכדאי שנדע לפני שנדבר? אפשר גם לדלג.', ph:'לא חובה, אפשר לשלוח ריק'}
+  ];
+
+  var thread = document.getElementById('mayaThread');
+  var form   = document.getElementById('mayaForm');
+  var field  = document.getElementById('mayaField');
+  var select = document.getElementById('mayaSelect');
+  var send   = document.getElementById('mayaSend');
+  var bar    = document.getElementById('mayaBar');
+  var ok     = document.getElementById('formOk');
+  var mayaCard = document.getElementById('mayaCard');
+  var classicCard = document.getElementById('classicCard');
+  var tabMaya = document.getElementById('tabMaya');
+  var tabForm = document.getElementById('tabForm');
+  var classic = document.getElementById('leadForm');
+
+  var answers = {}, step = 0;
+
+  function bubble(text, who){
+    var el = document.createElement('div');
+    el.className = 'bub ' + who;
+    el.textContent = text;
+    thread.appendChild(el);
+    thread.scrollTop = thread.scrollHeight;
+  }
+
+  function ask(){
+    var s = STEPS[step];
+    if(!s) return;
+    bubble(s.q.replace('{name}', answers.name || ''), 'maya');
+    if(s.select){ field.hidden = true; select.hidden = false; select.focus(); }
+    else { select.hidden = true; field.hidden = false; field.value = ''; field.placeholder = s.ph || ''; field.focus(); }
+    bar.style.width = Math.round((step / STEPS.length) * 100) + '%';
+  }
+
+  function submitLead(data){
+    var body = encodeURIComponent(
+      'שם: ' + (data.name||'') + '\nארגון: ' + (data.org||'') + '\nתפקיד: ' + (data.role||'') +
+      '\nטלפון: ' + (data.phone||'') + '\nאימייל: ' + (data.email||'') +
+      '\nנושא: ' + (data.topic||'') + '\nהערה: ' + (data.note||''));
+    window.location.href = 'mailto:hello@walkimpact.com?subject=' +
+      encodeURIComponent('פנייה מדף המידע לארגונים · ' + (data.org||'')) + '&body=' + body;
+    mayaCard.hidden = true;
+    classicCard.hidden = true;
+    document.querySelector('.form-switch').hidden = true;
+    ok.style.display = 'block';
+    ok.scrollIntoView({behavior:'smooth', block:'center'});
+  }
+
   form.addEventListener('submit', function(ev){
     ev.preventDefault();
-    err.style.display = 'none';
-    var data = {
-      name: form.name.value.trim(), org: form.org.value.trim(),
-      role: form.role.value.trim(), phone: form.phone.value.trim(),
-      email: form.email.value.trim(), topic: form.topic.value,
-      note: form.note.value.trim()
-    };
-    var body = encodeURIComponent(
-      'שם: ' + data.name + '\nארגון: ' + data.org + '\nתפקיד: ' + data.role +
-      '\nטלפון: ' + data.phone + '\nאימייל: ' + data.email +
-      '\nנושא: ' + data.topic + '\nהערה: ' + data.note);
-    window.location.href = 'mailto:hello@walkimpact.com?subject=' +
-      encodeURIComponent('פנייה מדף המידע לארגונים · ' + data.org) + '&body=' + body;
-    form.style.display = 'none';
-    ok.style.display = 'block';
+    var s = STEPS[step];
+    var val = (s.select ? select.value : field.value).trim();
+    if(!val && s.key !== 'note'){ field.focus(); return; }
+    answers[s.key] = val;
+    bubble(val || 'אין מה להוסיף', 'me');
+    step++;
+    if(step < STEPS.length){
+      send.disabled = true;
+      setTimeout(function(){ send.disabled = false; ask(); }, 420);
+    } else {
+      bar.style.width = '100%';
+      bubble('קיבלתי הכל, תודה. פותחת לכם מייל מוכן לשליחה.', 'maya');
+      setTimeout(function(){ submitLead(answers); }, 700);
+    }
   });
+
+  classic.addEventListener('submit', function(ev){
+    ev.preventDefault();
+    submitLead({
+      name: classic.name.value.trim(), org: classic.org.value.trim(),
+      role: classic.role.value.trim(), phone: classic.phone.value.trim(),
+      email: classic.email.value.trim(), topic: classic.topic.value,
+      note: classic.note.value.trim()
+    });
+  });
+
+  function show(which){
+    var isMaya = which === 'maya';
+    tabMaya.setAttribute('aria-pressed', String(isMaya));
+    tabForm.setAttribute('aria-pressed', String(!isMaya));
+    mayaCard.hidden = !isMaya;
+    classicCard.hidden = isMaya;
+  }
+  tabMaya.addEventListener('click', function(){ show('maya'); });
+  tabForm.addEventListener('click', function(){ show('form'); });
+
+  ask();
 })();
 </script>
 
