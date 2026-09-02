@@ -1,7 +1,7 @@
 {
-  "version": 3958,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3958.zip",
-  "notes": "Merge branch 'main' of https://github.com/eliavsr/walkimpact-official-platform",
-  "builtAt": "2026-09-02T17:12:21.457Z",
+  "version": 3960,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3960.zip",
+  "notes": "Fix streak flame color/freeze glyph; repair stale QA harnesses (#60)",
+  "builtAt": "2026-09-02T17:25:44.627Z",
   "minVersion": 3937
 }
