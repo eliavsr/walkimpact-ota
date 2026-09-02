@@ -1,7 +1,7 @@
 {
-  "version": 3919,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3919.zip",
-  "notes": "Entry: a professional's first open lands on their dashboard, not Today",
-  "builtAt": "2026-09-02T15:30:21.633Z",
-  "minVersion": 3911
+  "version": 3922,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3922.zip",
+  "notes": "URGENT: fix confirmed professionals locked out with false 'pending approval'",
+  "builtAt": "2026-09-02T16:21:15.136Z",
+  "minVersion": 3922
 }
