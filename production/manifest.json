@@ -1,7 +1,7 @@
 {
-  "version": 3922,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3922.zip",
-  "notes": "URGENT: fix confirmed professionals locked out with false 'pending approval'",
-  "builtAt": "2026-09-02T16:21:15.136Z",
-  "minVersion": 3922
+  "version": 3937,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3937.zip",
+  "notes": "URGENT: fix broken build + \"להתחזק בעצמי\" always sending admin to /start",
+  "builtAt": "2026-09-02T16:31:40.487Z",
+  "minVersion": 3937
 }
