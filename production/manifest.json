@@ -1,7 +1,7 @@
 {
-  "version": 3937,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3937.zip",
-  "notes": "URGENT: fix broken build + \"להתחזק בעצמי\" always sending admin to /start",
-  "builtAt": "2026-09-02T16:31:40.487Z",
+  "version": 3954,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3954.zip",
+  "notes": "Release gate: refresh the push catalog after the exercise renames; /pro/terms and /pro/privacy open the real pro pages",
+  "builtAt": "2026-09-02T16:50:28.086Z",
   "minVersion": 3937
 }
