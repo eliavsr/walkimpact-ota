@@ -586,7 +586,7 @@
 
     <div class="form-ok" id="formOk" style="max-width:620px;margin:0 auto">
       <h3>קיבלנו. תודה.</h3>
-      <p>נחזור אליכם בהקדם, בדרך כלל תוך יום עסקים.</p>
+      <p>שלחנו לכם אישור למייל. נחזור אליכם בהקדם, בדרך כלל תוך יום עסקים.</p>
     </div>
   </div>
 </section>
@@ -683,20 +683,59 @@
     bar.style.width = Math.round((step / STEPS.length) * 100) + '%';
   }
 
-  function submitLead(data){
-    var body = encodeURIComponent(
-      'שם: ' + (data.name||'') + '\nארגון: ' + (data.org||'') + '\nתפקיד: ' + (data.role||'') +
-      '\nטלפון: ' + (data.phone||'') + '\nאימייל: ' + (data.email||'') +
-      '\nנושא: ' + (data.topic||'') + '\nהערה: ' + (data.note||''));
-    window.location.href = 'mailto:hello@walkimpact.com?subject=' +
-      encodeURIComponent('פנייה מדף המידע לארגונים · ' + (data.org||'')) + '&body=' + body;
-    mayaCard.hidden = true;
-    classicCard.hidden = true;
-    document.querySelector('.form-switch').hidden = true;
-    ok.style.display = 'block';
+  var APP_ID='6a12d304bee1bf7c2b678097';
+  var API='https://app.walkimpact.com/api/apps/'+APP_ID;
+
+  function done(){
+    mayaCard.hidden=true; classicCard.hidden=true;
+    document.querySelector('.form-switch').hidden=true;
+    ok.style.display='block';
     ok.scrollIntoView({behavior:'smooth', block:'center'});
   }
 
+  function submitLead(d){
+    var note=[];
+    if(d.org) note.push('ארגון: '+d.org);
+    if(d.role) note.push('תפקיד: '+d.role);
+    if(d.topic) note.push('מתעניינים ב: '+d.topic);
+    if(d.note) note.push(d.note);
+    note.push('נשלח מדף המידע לארגונים');
+
+    var lead={
+      full_name: d.name||'',
+      email: d.email||'',
+      phone: d.phone||'',
+      role: 'Organization',
+      language: 'he',
+      timestamp: new Date().toISOString(),
+      status: 'pending',
+      source: 'orgs',
+      message: note.join(' · ')
+    };
+
+    fetch(API+'/entities/WaitlistSignup', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify(lead)
+    }).then(function(r){
+      if(!r.ok) throw new Error('lead');
+      fetch(API+'/functions/notifyWaitlistSignup', {
+        method:'POST', headers:{'Content-Type':'application/json'},
+        body: JSON.stringify({
+          full_name: lead.full_name, email: lead.email, phone: lead.phone,
+          role: lead.role, language: 'he', context: 'lead', source: 'orgs'
+        })
+      }).catch(function(){});
+      done();
+    }).catch(function(){
+      var body=encodeURIComponent(
+        'שם: '+(d.name||'')+'\nארגון: '+(d.org||'')+'\nתפקיד: '+(d.role||'')+
+        '\nטלפון: '+(d.phone||'')+'\nאימייל: '+(d.email||'')+
+        '\nנושא: '+(d.topic||'')+'\nהערה: '+(d.note||''));
+      window.location.href='mailto:hello@walkimpact.com?subject='+
+        encodeURIComponent('פנייה מדף המידע לארגונים · '+(d.org||''))+'&body='+body;
+      done();
+    });
+  }
   form.addEventListener('submit', function(ev){
     ev.preventDefault();
     var s = STEPS[step];
@@ -710,7 +749,7 @@
       setTimeout(function(){ send.disabled = false; ask(); }, 420);
     } else {
       bar.style.width = '100%';
-      bubble('קיבלתי הכל, תודה. פותחת לכם מייל מוכן לשליחה.', 'maya');
+      bubble('קיבלתי הכל, תודה. שלחנו לכם אישור למייל, ונחזור אליכם.', 'maya');
       setTimeout(function(){ submitLead(answers); }, 700);
     }
   });
