@@ -1,7 +1,7 @@
 {
-  "version": 3960,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3960.zip",
-  "notes": "Fix streak flame color/freeze glyph; repair stale QA harnesses (#60)",
-  "builtAt": "2026-09-02T17:25:44.627Z",
+  "version": 3977,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3977.zip",
+  "notes": "Merge the 3.9.26 fixes: Today screen, Hebrew resolver, sign-in and start flows (#61)",
+  "builtAt": "2026-09-04T04:39:35.635Z",
   "minVersion": 3937
 }
