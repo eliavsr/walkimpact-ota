@@ -1,7 +1,7 @@
 {
-  "version": 3977,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3977.zip",
-  "notes": "Merge the 3.9.26 fixes: Today screen, Hebrew resolver, sign-in and start flows (#61)",
-  "builtAt": "2026-09-04T04:39:35.635Z",
-  "minVersion": 3937
+  "version": 3978,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3978.zip",
+  "notes": "Fix: professional-approval bypass let brand-new signups skip admin review (#62)",
+  "builtAt": "2026-09-04T08:08:55.639Z",
+  "minVersion": 3978
 }
