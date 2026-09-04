@@ -1,7 +1,7 @@
 {
-  "version": 3978,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3978.zip",
-  "notes": "Fix: professional-approval bypass let brand-new signups skip admin review (#62)",
-  "builtAt": "2026-09-04T08:08:55.639Z",
+  "version": 3985,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3985.zip",
+  "notes": "Release 2.1.10 (Android build 57) / 2.124643.6 (iOS build 35)",
+  "builtAt": "2026-09-04T21:28:40.365Z",
   "minVersion": 3978
 }
