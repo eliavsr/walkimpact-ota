@@ -1,7 +1,7 @@
 {
-  "version": 3985,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3985.zip",
-  "notes": "Release 2.1.10 (Android build 57) / 2.124643.6 (iOS build 35)",
-  "builtAt": "2026-09-04T21:28:40.365Z",
+  "version": 3986,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3986.zip",
+  "notes": "Voice: the words appear while you speak, Hebrew only, and never a dead button",
+  "builtAt": "2026-09-04T21:47:03.541Z",
   "minVersion": 3978
 }
