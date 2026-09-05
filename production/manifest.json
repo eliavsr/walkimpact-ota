@@ -1,7 +1,7 @@
 {
-  "version": 3986,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/3986.zip",
-  "notes": "Voice: the words appear while you speak, Hebrew only, and never a dead button",
-  "builtAt": "2026-09-04T21:47:03.541Z",
-  "minVersion": 3978
+  "version": 4003,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4003.zip",
+  "notes": "docs: the real-world journey prototype, and the contract learns what this program fixed in place",
+  "builtAt": "2026-09-05T01:21:07.698Z",
+  "minVersion": 4003
 }
