@@ -1,7 +1,7 @@
 {
-  "version": 4010,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4010.zip",
-  "notes": "The hour is a control she can see, and every choice is a tile (plan sheet design pass)",
-  "builtAt": "2026-09-05T09:09:13.325Z",
-  "minVersion": 4010
+  "version": 4013,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4013.zip",
+  "notes": "Merge origin/main: Base44's writeback of the AILearningProfile schema (kept the commented source; same fields)",
+  "builtAt": "2026-09-05T10:08:01.830Z",
+  "minVersion": 4013
 }
