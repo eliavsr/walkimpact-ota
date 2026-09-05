@@ -1,7 +1,7 @@
 {
-  "version": 4008,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4008.zip",
-  "notes": "The station is the day, and it opens the day's step; what else happened folds under it (Slice X + integration)",
-  "builtAt": "2026-09-05T07:28:00.568Z",
-  "minVersion": 4008
+  "version": 4010,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4010.zip",
+  "notes": "The hour is a control she can see, and every choice is a tile (plan sheet design pass)",
+  "builtAt": "2026-09-05T09:09:13.325Z",
+  "minVersion": 4010
 }
