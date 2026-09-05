@@ -1,7 +1,7 @@
 {
-  "version": 4003,
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4003.zip",
-  "notes": "docs: the real-world journey prototype, and the contract learns what this program fixed in place",
-  "builtAt": "2026-09-05T01:21:07.698Z",
-  "minVersion": 4003
+  "version": 4008,
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4008.zip",
+  "notes": "The station is the day, and it opens the day's step; what else happened folds under it (Slice X + integration)",
+  "builtAt": "2026-09-05T07:28:00.568Z",
+  "minVersion": 4008
 }
