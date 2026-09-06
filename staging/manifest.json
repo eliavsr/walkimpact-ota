@@ -1,7 +1,7 @@
 {
-  "version": 4041,
+  "version": 4067,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4041.zip",
-  "notes": "[staging] The release gate was red, and one of the two reasons was a real bug",
-  "builtAt": "2026-09-06T17:55:22.385Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4067.zip",
+  "notes": "[staging] Merge main: 24 commits, two conflicts, both resolved by keeping both sides",
+  "builtAt": "2026-09-06T18:20:36.116Z"
 }
