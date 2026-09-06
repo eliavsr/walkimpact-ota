@@ -1,8 +1,8 @@
 {
-  "version": 4035,
+  "version": 4047,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4035.zip",
-  "notes": "Merge remote-tracking branch 'origin/main' into claude/profile-titles-tabs-overlap-2igwsh",
-  "builtAt": "2026-09-06T14:07:08.017Z",
-  "minVersion": 4013
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4047.zip",
+  "notes": "Merge remote-tracking branch 'origin/main'",
+  "builtAt": "2026-09-06T15:53:18.303Z",
+  "minVersion": 4047
 }
