@@ -1,7 +1,7 @@
 {
-  "version": 4048,
+  "version": 4041,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4048.zip",
-  "notes": "[staging] הסכמים דיגיטליים: תשעה טמפלטים, חתימה, שליחה במייל ובוואטסאפ",
-  "builtAt": "2026-09-06T16:52:24.975Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4041.zip",
+  "notes": "[staging] The release gate was red, and one of the two reasons was a real bug",
+  "builtAt": "2026-09-06T17:55:22.385Z"
 }
