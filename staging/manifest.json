@@ -1,7 +1,7 @@
 {
-  "version": 4023,
+  "version": 4048,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4023.zip",
-  "notes": "[staging] The three seams the review found: one pseudonym, a loud escalation, an export that refuses",
-  "builtAt": "2026-09-06T14:54:08.017Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4048.zip",
+  "notes": "[staging] הסכמים דיגיטליים: תשעה טמפלטים, חתימה, שליחה במייל ובוואטסאפ",
+  "builtAt": "2026-09-06T16:52:24.975Z"
 }
