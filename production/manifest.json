@@ -1,8 +1,8 @@
 {
-  "version": 4049,
+  "version": 4102,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4049.zip",
-  "notes": "מאיה פותחת את ההסכם, ואז המסמך: PDF, שליחה והזמנה להצטרף",
-  "builtAt": "2026-09-06T18:11:11.164Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4102.zip",
+  "notes": "Merge origin/main into the /pro legal-links fix",
+  "builtAt": "2026-09-14T13:27:46.532Z",
   "minVersion": 4047
 }
