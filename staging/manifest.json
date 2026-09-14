@@ -1,7 +1,7 @@
 {
-  "version": 4097,
+  "version": 4102,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4097.zip",
-  "notes": "[staging] fix: marketing headers show the full logo lockup; leaders webinar moved to 11.10",
-  "builtAt": "2026-09-14T08:22:14.301Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4102.zip",
+  "notes": "[staging] Merge origin/main into the /pro legal-links fix",
+  "builtAt": "2026-09-14T13:21:07.285Z"
 }
