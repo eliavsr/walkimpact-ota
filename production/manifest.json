@@ -1,8 +1,8 @@
 {
-  "version": 4102,
+  "version": 4109,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4102.zip",
-  "notes": "Merge origin/main into the /pro legal-links fix",
-  "builtAt": "2026-09-14T13:27:46.532Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4109.zip",
+  "notes": "Ticking a task done now reaches the rest of the workspace",
+  "builtAt": "2026-09-15T14:35:36.499Z",
   "minVersion": 4047
 }
