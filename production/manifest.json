@@ -1,8 +1,8 @@
 {
-  "version": 4109,
+  "version": 4114,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4109.zip",
-  "notes": "Ticking a task done now reaches the rest of the workspace",
-  "builtAt": "2026-09-15T14:35:36.499Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4114.zip",
+  "notes": "The funder page after Ilanit's session: the ladder, the numbers, and the stance",
+  "builtAt": "2026-09-16T10:31:02.629Z",
   "minVersion": 4047
 }
