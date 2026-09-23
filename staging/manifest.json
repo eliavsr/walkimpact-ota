@@ -1,7 +1,7 @@
 {
-  "version": 4102,
+  "version": 4120,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4102.zip",
-  "notes": "[staging] Merge origin/main into the /pro legal-links fix",
-  "builtAt": "2026-09-14T13:21:07.285Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4120.zip",
+  "notes": "[staging] Police package: security brief, mockups, corrected claims, research",
+  "builtAt": "2026-09-23T15:35:56.728Z"
 }
