@@ -1,8 +1,8 @@
 {
-  "version": 4131,
+  "version": 4135,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4131.zip",
-  "notes": "Remove the duplicate NEFASHOT_SEED import that broke main",
-  "builtAt": "2026-09-23T16:32:15.654Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4135.zip",
+  "notes": "Merge branch 'claude/clever-clarke-likvay'",
+  "builtAt": "2026-09-24T06:12:49.701Z",
   "minVersion": 4047
 }
