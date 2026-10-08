@@ -1,8 +1,8 @@
 {
-  "version": 4135,
+  "version": 4182,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4135.zip",
-  "notes": "Merge branch 'claude/clever-clarke-likvay'",
-  "builtAt": "2026-09-24T06:12:49.701Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4182.zip",
+  "notes": "Merge remote-tracking branch 'origin/main' into claude/clever-clarke-likvay",
+  "builtAt": "2026-10-08T12:15:36.284Z",
   "minVersion": 4047
 }
