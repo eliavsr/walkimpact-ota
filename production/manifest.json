@@ -1,8 +1,8 @@
 {
-  "version": 4182,
+  "version": 4183,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4182.zip",
-  "notes": "Merge remote-tracking branch 'origin/main' into claude/clever-clarke-likvay",
-  "builtAt": "2026-10-08T12:15:36.284Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4183.zip",
+  "notes": "Police seed: drop the value-anchor paragraph text (section already hidden)",
+  "builtAt": "2026-10-08T12:19:17.766Z",
   "minVersion": 4047
 }
