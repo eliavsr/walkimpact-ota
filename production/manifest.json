@@ -1,8 +1,8 @@
 {
-  "version": 4189,
+  "version": 4211,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4189.zip",
-  "notes": "Traction figures brought up to date: Sderot at 12,000, and Returning to Life",
-  "builtAt": "2026-10-11T11:30:00.030Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4211.zip",
+  "notes": "התרגול בכל תרגיל עכשיו מודרך: 144 תרגילים עם זמן אמיתי, מדד לפני ואחרי וכפתור להקל (#64)",
+  "builtAt": "2026-10-11T14:10:32.373Z",
   "minVersion": 4047
 }
