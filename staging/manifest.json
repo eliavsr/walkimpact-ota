@@ -1,7 +1,7 @@
 {
-  "version": 4211,
+  "version": 4216,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4211.zip",
-  "notes": "[staging] התרגול בכל תרגיל עכשיו מודרך: 144 תרגילים עם זמן אמיתי, מדד לפני ואחרי וכפתור להקל (#64)",
-  "builtAt": "2026-10-11T14:04:45.550Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4216.zip",
+  "notes": "[staging] player: one grounding before the guided practice, streak from the full history (#68)",
+  "builtAt": "2026-10-11T15:38:57.932Z"
 }
