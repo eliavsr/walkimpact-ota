@@ -1,8 +1,8 @@
 {
-  "version": 4211,
+  "version": 4216,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4211.zip",
-  "notes": "התרגול בכל תרגיל עכשיו מודרך: 144 תרגילים עם זמן אמיתי, מדד לפני ואחרי וכפתור להקל (#64)",
-  "builtAt": "2026-10-11T14:10:32.373Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4216.zip",
+  "notes": "player: one grounding before the guided practice, streak from the full history (#68)",
+  "builtAt": "2026-10-11T15:47:48.754Z",
   "minVersion": 4047
 }
