@@ -1,7 +1,7 @@
 {
-  "version": 4216,
+  "version": 4217,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4216.zip",
-  "notes": "[staging] player: one grounding before the guided practice, streak from the full history (#68)",
-  "builtAt": "2026-10-11T15:38:57.932Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4217.zip",
+  "notes": "[staging] streak: opening the app or starting an exercise no longer makes the day active (#69)",
+  "builtAt": "2026-10-12T07:38:36.630Z"
 }
