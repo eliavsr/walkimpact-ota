@@ -1,8 +1,8 @@
 {
-  "version": 4216,
+  "version": 4217,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4216.zip",
-  "notes": "player: one grounding before the guided practice, streak from the full history (#68)",
-  "builtAt": "2026-10-11T15:47:48.754Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4217.zip",
+  "notes": "streak: opening the app or starting an exercise no longer makes the day active (#69)",
+  "builtAt": "2026-10-12T07:49:08.418Z",
   "minVersion": 4047
 }
