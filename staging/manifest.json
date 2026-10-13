@@ -1,7 +1,7 @@
 {
-  "version": 4217,
+  "version": 4230,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4217.zip",
-  "notes": "[staging] streak: opening the app or starting an exercise no longer makes the day active (#69)",
-  "builtAt": "2026-10-12T07:38:36.630Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4230.zip",
+  "notes": "[staging] Deploy 27.10: Yuval Bar-On moves to 11:00, updated prep and hook (#81)",
+  "builtAt": "2026-10-13T15:34:42.086Z"
 }
