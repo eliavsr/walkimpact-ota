@@ -1,8 +1,8 @@
 {
-  "version": 4217,
+  "version": 4231,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4217.zip",
-  "notes": "streak: opening the app or starting an exercise no longer makes the day active (#69)",
-  "builtAt": "2026-10-12T07:49:08.418Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4231.zip",
+  "notes": "Deploy 27.10: Yuval back to 12:00, new Ofir topic line, story photo fix (#82)",
+  "builtAt": "2026-10-13T16:03:17.520Z",
   "minVersion": 4047
 }
