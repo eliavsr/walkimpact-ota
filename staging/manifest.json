@@ -1,7 +1,7 @@
 {
-  "version": 4230,
+  "version": 4285,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4230.zip",
-  "notes": "[staging] Deploy 27.10: Yuval Bar-On moves to 11:00, updated prep and hook (#81)",
-  "builtAt": "2026-10-13T15:34:42.086Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4285.zip",
+  "notes": "[staging] Practice v2: all 23 psychoeducation modules play as guided practice (#97)",
+  "builtAt": "2026-10-18T13:43:29.222Z"
 }
