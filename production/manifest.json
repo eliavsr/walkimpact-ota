@@ -1,8 +1,8 @@
 {
-  "version": 4285,
+  "version": 4362,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4285.zip",
-  "notes": "Practice v2: all 23 psychoeducation modules play as guided practice (#97)",
-  "builtAt": "2026-10-18T13:48:41.624Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4362.zip",
+  "notes": "Org command center: 29.10 statuses, PwC materials, ready-to-send packages (#121)",
+  "builtAt": "2026-10-29T16:31:17.432Z",
   "minVersion": 4047
 }
