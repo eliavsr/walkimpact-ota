@@ -1,7 +1,7 @@
 {
-  "version": 4334,
+  "version": 4335,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4334.zip",
-  "notes": "[staging] Fix invite links sending signups through the pre-redesign Register screen (#117)",
-  "builtAt": "2026-10-29T06:25:51.025Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4335.zip",
+  "notes": "[staging] Close /register as a stale entry point into the pre-redesign signup flow (#118)",
+  "builtAt": "2026-10-29T07:46:05.204Z"
 }
