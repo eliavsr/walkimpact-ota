@@ -1,7 +1,7 @@
 {
-  "version": 4335,
+  "version": 4357,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4335.zip",
-  "notes": "[staging] Close /register as a stale entry point into the pre-redesign signup flow (#118)",
-  "builtAt": "2026-10-29T07:46:05.204Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4357.zip",
+  "notes": "[staging] Exercise player: generative music with an off switch, logos worn by the pet (#122)",
+  "builtAt": "2026-10-29T16:22:35.644Z"
 }
