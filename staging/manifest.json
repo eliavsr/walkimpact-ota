@@ -1,7 +1,7 @@
 {
-  "version": 4285,
+  "version": 4334,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4285.zip",
-  "notes": "[staging] Practice v2: all 23 psychoeducation modules play as guided practice (#97)",
-  "builtAt": "2026-10-18T13:43:29.222Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4334.zip",
+  "notes": "[staging] Fix invite links sending signups through the pre-redesign Register screen (#117)",
+  "builtAt": "2026-10-29T06:25:51.025Z"
 }
