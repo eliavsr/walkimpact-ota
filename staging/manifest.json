@@ -1,7 +1,7 @@
 {
-  "version": 4357,
+  "version": 4363,
   "channel": "staging",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4357.zip",
-  "notes": "[staging] Exercise player: generative music with an off switch, logos worn by the pet (#122)",
-  "builtAt": "2026-10-29T16:22:35.644Z"
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/staging/4363.zip",
+  "notes": "[staging] Exercise player: music, nature or silence, with a volume slider (#123)",
+  "builtAt": "2026-10-30T06:23:26.128Z"
 }
