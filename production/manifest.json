@@ -1,8 +1,8 @@
 {
-  "version": 4362,
+  "version": 4363,
   "channel": "production",
-  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4362.zip",
-  "notes": "Org command center: 29.10 statuses, PwC materials, ready-to-send packages (#121)",
-  "builtAt": "2026-10-29T16:31:17.432Z",
+  "url": "https://raw.githubusercontent.com/eliavsr/walkimpact-ota/main/production/4363.zip",
+  "notes": "Exercise player: music, nature or silence, with a volume slider (#123)",
+  "builtAt": "2026-10-30T06:29:31.130Z",
   "minVersion": 4362
 }
